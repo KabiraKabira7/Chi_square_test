@@ -1,0 +1,1 @@
+This repository demonstrates Chi-Square hypothesis testing for categorical data. It covers goodness-of-fit, independence, and homogeneity tests, showing how to perform analyses, interpret results, and draw conclusions from data using Python.
